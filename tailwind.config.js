@@ -41,7 +41,7 @@ module.exports = {
     },
 
     shadows: {
-      default: "0 2px 18px rgba(0, 0, 0, 0.06)",
+      default: "dc2626",
       md: "0 -3px 36px rgba(0, 0, 0, 0.12)",
     },
 
